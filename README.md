@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Stavrop
 - 👀 I’m interested in Data Science and Data Analysis
-- 🌱 I’m currently learning Generative Ai
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on Data Science Projects
 
 
